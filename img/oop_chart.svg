@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2003"
+   height="2169"
+   viewBox="0 0 529.9604 573.88127"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="oop_chart.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="592.50264"
+     inkscape:cy="361.77867"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1016"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:none;stroke-width:0.54012"
+       id="rect833"
+       width="529.71942"
+       height="573.65106"
+       x="0.0008459895"
+       y="0.0003302212" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 265.39887,64.106733 V 82.281061 H 153.68021 V 102.059 82.147426 H 378.6568 V 102.25086 82.02913 H 265.45292 Z"
+       id="path1769" />
+    <g
+       id="g844"
+       transform="translate(52.941175,45.932405)">
+      <rect
+         style="opacity:1;fill:#23c975;fill-opacity:1;stroke:none;stroke-width:0.373144"
+         id="rect835"
+         width="96.482948"
+         height="17.317444"
+         x="162.65677"
+         y="2.9163618"
+         ry="8.6587219" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;stroke-width:0.264583"
+         x="179.11867"
+         y="13.695987"
+         id="text839"><tspan
+           sodipodi:role="line"
+           id="tspan837"
+           x="179.11867"
+           y="13.695987"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;stroke-width:0.264583">Create Objects</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.95691,114.95886 v 18.17433 H 87.175873 v 19.77794 -19.91158 H 219.64428 v 20.10343 -20.22173 h -66.65555 z"
+       id="path1771" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 378.98667,114.95886 v 18.17433 h -65.78103 v 19.77794 -19.91158 h 132.4684 v 20.10343 -20.22173 h -66.65555 z"
+       id="path1773" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.862829,156.31472 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1777" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 219.68371,156.84389 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1783" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 313.34635,156.84389 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1785" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 445.6381,156.84389 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1787" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 131.76411,106.33532 H 41.961548 v 198.84853 h 21.9161 -22.049735 V 106.20168 Z"
+       id="path1789" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.862829,309.77312 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1791" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 318.6379,309.77312 c 0,0 0,39.28862 0,36.34866 0,-2.93997 0,-36.34866 0,-36.34866 z"
+       id="path1793" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 362.48093,106.33532 h -89.80262 v 198.84853 h 21.91612 -22.04975 V 106.20168 Z"
+       id="path1795" />
+    <path
+       style="fill:none;stroke:#23c975;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 67.015423,376.28359 H 43.5809 v 75.59524 H 69.283281 43.5809 v 54.80656 H 65.503518 43.5809 v -130.4018 z"
+       id="path1799" />
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect863"
+       width="56.090416"
+       height="17.549879"
+       x="126.8679"
+       y="98.625404"
+       ry="2.538332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="145.44316"
+       y="110.31288"
+       id="text850"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         x="145.44316"
+         y="110.31288"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#23c975;fill-opacity:1;stroke-width:0.75">User</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect857"
+       width="56.090416"
+       height="17.549879"
+       x="351.4119"
+       y="98.625404"
+       ry="2.538332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="366.918"
+       y="110.58382"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="366.918"
+         y="110.58382"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#23c975;fill-opacity:1;stroke-width:0.75">Movie</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1175"
+       width="63.974491"
+       height="17.549879"
+       x="289.05627"
+       y="141.60072"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+       x="302.01898"
+       y="152.23145"
+       id="text1173"><tspan
+         sodipodi:role="line"
+         id="tspan1171"
+         x="302.01898"
+         y="152.23145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">properties</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1183"
+       width="56.090416"
+       height="17.549879"
+       x="399.85959"
+       y="141.60072"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+       x="411.1694"
+       y="153.08339"
+       id="text1181"><tspan
+         sodipodi:role="line"
+         id="tspan1179"
+         x="411.1694"
+         y="153.08339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">methods</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1053"
+       width="85.857666"
+       height="84.185043"
+       x="384.97592"
+       y="186.59203"
+       ry="0" />
+    <g
+       id="g1751"
+       transform="translate(52.652315,39.899371)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+         x="347.04529"
+         y="185.36728"
+         id="text1061"><tspan
+           sodipodi:role="line"
+           id="tspan1059"
+           x="347.04529"
+           y="185.36728"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">removeMovie()</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+         x="347.04529"
+         y="197.12221"
+         id="text1065"><tspan
+           sodipodi:role="line"
+           id="tspan1063"
+           x="347.04529"
+           y="197.12221"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">getMovies()</tspan></text>
+    </g>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1033"
+       width="66.005669"
+       height="82.467018"
+       x="288.04071"
+       y="187.76149"
+       ry="0" />
+    <g
+       id="g1091"
+       transform="translate(55.799787,40.640738)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="242.0446"
+         y="165.9725"
+         id="text1037"><tspan
+           sodipodi:role="line"
+           id="tspan1035"
+           x="242.0446"
+           y="165.9725"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">title</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="242.0446"
+         y="177.76224"
+         id="text1041"><tspan
+           sodipodi:role="line"
+           id="tspan1039"
+           x="242.0446"
+           y="177.76224"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">description</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="242.0446"
+         y="189.6927"
+         id="text1045"><tspan
+           sodipodi:role="line"
+           id="tspan1043"
+           x="242.0446"
+           y="189.6927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">genre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="242.0446"
+         y="202.92334"
+         id="text1049"><tspan
+           sodipodi:role="line"
+           id="tspan1047"
+           x="242.0446"
+           y="202.92334"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">poster</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="242.0446"
+         y="216.77258"
+         id="text1079"><tspan
+           sodipodi:role="line"
+           id="tspan1077"
+           x="242.0446"
+           y="216.77258"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">release date</tspan></text>
+    </g>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1353"
+       width="66.607986"
+       height="17.484114"
+       x="292.99832"
+       y="296.07043"
+       ry="2.52882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="301.78079"
+       y="307.59793"
+       id="text1201"><tspan
+         sodipodi:role="line"
+         id="tspan1199"
+         x="301.78079"
+         y="307.59793"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">Create Movie</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1399"
+       width="194.76988"
+       height="76.905525"
+       x="292.99832"
+       y="337.32138"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="314.0282"
+       y="350.76361"
+       id="text1407"><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="350.76361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1405"><tspan
+   style="font-weight:bold"
+   id="tspan1401">const</tspan> movie1 = new <tspan
+   style="font-weight:bold"
+   id="tspan1413">Movie</tspan>(</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="360.02402"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1439">                             &quot;Frozen&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="369.28442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1441">                             &quot;description 1&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="378.54486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1443">                             &quot;animation&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="387.80527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1445">                             &quot;poster1.png&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="397.06567"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1447">                             01-01-1970</tspan><tspan
+         sodipodi:role="line"
+         x="314.0282"
+         y="406.32608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1449">);</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1355"
+       width="194.7645"
+       height="77.969215"
+       x="58.053493"
+       y="337.12921"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="82.65654"
+       y="355.73349"
+       id="text1359"><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="355.73349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1397"><tspan
+   style="font-weight:bold"
+   id="tspan1395">const</tspan> user1 = new <tspan
+   style="font-weight:bold"
+   id="tspan1409">User</tspan>(</tspan><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="364.9939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1431">                          &quot;John&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="374.2543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1427">                          &quot;johndoe@example.com&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="383.51474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1423">                          12345678,</tspan><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="392.77515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1425">                          []</tspan><tspan
+         sodipodi:role="line"
+         x="82.65654"
+         y="402.03555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1429">);</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.495593;stroke-opacity:1"
+       id="rect1671"
+       width="195.01891"
+       height="34.000408"
+       x="57.864544"
+       y="436.03177"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="101.65137"
+       y="454.76324"
+       id="text1689"><tspan
+         sodipodi:role="line"
+         x="101.65137"
+         y="454.76324"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1687">user1.addToFavorites(movie1)</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.495593;stroke-opacity:1"
+       id="rect1753"
+       width="195.01891"
+       height="34.000408"
+       x="57.864544"
+       y="490.55475"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="119.35846"
+       y="509.28622"
+       id="text1757"><tspan
+         sodipodi:role="line"
+         x="119.35846"
+         y="509.28622"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         id="tspan1755">user1.getFavorites()</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect1209"
+       width="66.607986"
+       height="17.484114"
+       x="58.053493"
+       y="296.03757"
+       ry="2.52882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+       x="70.086342"
+       y="307.36133"
+       id="text1207"><tspan
+         sodipodi:role="line"
+         id="tspan1205"
+         x="70.086342"
+         y="307.36133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">Create User</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.660622;stroke-opacity:1"
+       id="rect919"
+       width="66.005669"
+       height="70.994705"
+       x="58.926933"
+       y="187.60315"
+       ry="0" />
+    <g
+       id="g1031"
+       transform="translate(43.405065,35.829873)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="29.629778"
+         y="170.78337"
+         id="text928"><tspan
+           sodipodi:role="line"
+           id="tspan926"
+           x="29.629778"
+           y="170.78337"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">username</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="29.629778"
+         y="183.6993"
+         id="text932"><tspan
+           sodipodi:role="line"
+           id="tspan930"
+           x="29.629778"
+           y="183.6993"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">email</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="29.629778"
+         y="194.60435"
+         id="text936"><tspan
+           sodipodi:role="line"
+           id="tspan934"
+           x="29.629778"
+           y="194.60435"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">password</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.75"
+         x="29.629778"
+         y="207.82507"
+         id="text940"><tspan
+           sodipodi:role="line"
+           id="tspan938"
+           x="29.629778"
+           y="207.82507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.75">favorites</tspan></text>
+    </g>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect901"
+       width="56.090416"
+       height="17.549879"
+       x="171.86934"
+       y="141.60072"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+       x="183.17915"
+       y="153.08339"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="183.17915"
+         y="153.08339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">methods</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect879"
+       width="63.974491"
+       height="17.549879"
+       x="59.94252"
+       y="141.60072"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+       x="72.905212"
+       y="152.23145"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="72.905212"
+         y="152.23145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">properties</tspan></text>
+    <rect
+       style="fill:#28282a;fill-opacity:1;stroke:#23c975;stroke-width:0.75;stroke-opacity:1"
+       id="rect977"
+       width="101.83135"
+       height="72.419937"
+       x="148.99887"
+       y="186.62328"
+       ry="0" />
+    <g
+       id="g1133"
+       transform="translate(47.973035,40.640738)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+         x="108.45468"
+         y="173.05273"
+         id="text981"><tspan
+           sodipodi:role="line"
+           id="tspan979"
+           x="108.45468"
+           y="173.05273"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">showFavorites()</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+         x="108.45468"
+         y="184.96323"
+         id="text985"><tspan
+           sodipodi:role="line"
+           id="tspan983"
+           x="108.45468"
+           y="184.96323"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">addToFavorites()</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;word-spacing:0px;fill:#23c975;fill-opacity:1;stroke-width:0.264583"
+         x="108.45468"
+         y="196.87372"
+         id="text989"><tspan
+           sodipodi:role="line"
+           id="tspan987"
+           x="108.45468"
+           y="196.87372"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#23c975;fill-opacity:1;stroke-width:0.264583">removeFromFavorites()</tspan></text>
+    </g>
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="path1015"
+       cx="378.57938"
+       cy="98.792908"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1019"
+       cx="313.3407"
+       cy="141.32559"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1021"
+       cx="445.58371"
+       cy="141.51459"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1025"
+       cx="219.6627"
+       cy="141.51459"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1027"
+       cx="87.12944"
+       cy="141.60236"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1029"
+       cx="313.37311"
+       cy="187.84"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1031"
+       cx="445.67151"
+       cy="186.50365"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1033"
+       cx="87.12944"
+       cy="187.70634"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1035"
+       cx="219.69513"
+       cy="186.7709"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1037"
+       cx="57.997066"
+       cy="305.23816"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1039"
+       cx="86.817749"
+       cy="337.36612"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1041"
+       cx="57.885822"
+       cy="451.89111"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1043"
+       cx="57.885822"
+       cy="506.80829"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1045"
+       cx="318.51715"
+       cy="337.36612"
+       r="2.2391081" />
+    <circle
+       style="fill:#23c975;fill-opacity:1;stroke:#28282a;stroke-width:0.813451;stroke-opacity:1"
+       id="circle1285"
+       cx="153.61739"
+       cy="98.792908"
+       r="2.2391081" />
+  </g>
+</svg>
